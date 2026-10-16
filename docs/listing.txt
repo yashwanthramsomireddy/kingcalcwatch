@@ -1,0 +1,45 @@
+TITLE
+King Calc Watch
+
+SHORT
+Calculator, currency and unit converter for Wear OS. No ads, no tracking.
+
+FULL
+King Calc Watch is a fast, private calculator for your wrist, with a currency converter and a unit converter. It runs entirely on your watch, with no phone app needed.
+
+It is free for everyone. No ads. No tracking. No account. No in-app purchases.
+
+CALCULATOR
+• Compact mode (default): every key fits one round screen, no scrolling
+• Expanded mode: memory keys (MC, MR, M-, M+), square root, square and 1/x; scroll with the rotating bezel or crown
+• Percent, sign toggle and backspace
+• History of your recent calculations, with a one-tap Clear
+
+CURRENCY CONVERTER
+• All world currencies, with flags
+• Star your favourites to pin them at the top, and jump to any letter A-Z
+• Type an amount and see it converted into every currency at once
+• Works offline with the last saved rates
+• INR on the left and USD on the right by default in India, USD and EUR elsewhere
+
+UNIT CONVERTER
+• Length, weight, temperature, area, volume, speed, time and data
+• See every unit in a category at once
+• Indian area units included: cent, guntha and ground
+
+MADE YOUR WAY
+• Pitch Black, White, or follow your watch
+• Choose an accent colour
+• Round or Classic key style
+• Optional keep-screen-on mode (off by default, as it uses more battery)
+
+PRIVATE BY DESIGN
+King Calc Watch collects no personal data. Your settings, favourites and history stay on your watch. The only internet request is downloading public currency rates, and it contains none of your data.
+
+OPEN SOURCE
+The full source code is free on GitHub under the MIT license.
+
+Currency rates are for information only and may differ from what a bank or money changer gives you. Exchange rates by ExchangeRate-API.
+
+Built by Yashwanth Ram Somireddy, a TeamExyKings product.
+Questions or ideas? Email yashwanthramsomireddy@gmail.com
